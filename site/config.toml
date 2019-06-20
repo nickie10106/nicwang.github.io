@@ -9,7 +9,7 @@ paginate = 6
   home = ["HTML", "AMP", "RSS", "JSON"]
   page = ["HTML"]
 
-# Plugins
+# Plugins 
 [params.plugins]
 
   # CSS Plugins
