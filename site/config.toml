@@ -14,35 +14,35 @@ paginate = 6
 
   # CSS Plugins
   [[params.plugins.css]]
-  URL = "/plugins/bootstrap/bootstrap.min.css"
+  URL = "plugins/bootstrap/bootstrap.min.css"
   [[params.plugins.css]]
-  URL = "/plugins/slick/slick.css"
+  URL = "plugins/slick/slick.css"
   [[params.plugins.css]]
-  URL = "/plugins/themify-icons/themify-icons.css"
+  URL = "plugins/themify-icons/themify-icons.css"
 
   # JS Plugins
   [[params.plugins.js]]
-  URL = "/plugins/jQuery/jquery.min.js"
+  URL = "plugins/jQuery/jquery.min.js"
   [[params.plugins.js]]
-  URL = "/plugins/bootstrap/bootstrap.min.js"
+  URL = "plugins/bootstrap/bootstrap.min.js"
   [[params.plugins.js]]
-  URL = "/plugins/slick/slick.min.js"
+  URL = "plugins/slick/slick.min.js"
   [[params.plugins.js]]
-  URL = "/plugins/headroom/headroom.js"
+  URL = "plugins/headroom/headroom.js"
   [[params.plugins.js]]
-  URL = "/plugins/instafeed/instafeed.min.js"
+  URL = "plugins/instafeed/instafeed.min.js"
   [[params.plugins.js]]
-  URL = "/plugins/masonry/masonry.js"
+  URL = "plugins/masonry/masonry.js"
   [[params.plugins.js]]
-  URL = "/plugins/reading-time/readingTime.min.js"
+  URL = "plugins/reading-time/readingTime.min.js"
   [[params.plugins.js]]
-  URL = "/plugins/smooth-scroll/smooth-scroll.js"
+  URL = "plugins/smooth-scroll/smooth-scroll.js"
   [[params.plugins.js]]
-  URL = "/plugins/search/fuse.min.js"
+  URL = "plugins/search/fuse.min.js"
   [[params.plugins.js]]
-  URL = "/plugins/search/mark.js"
+  URL = "plugins/search/mark.js"
   [[params.plugins.js]]
-  URL = "/plugins/search/search.js"
+  URL = "plugins/search/search.js"
 
 
 
