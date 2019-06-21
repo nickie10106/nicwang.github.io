@@ -921,3 +921,20 @@ blockquote {
 .port-filter > li {
     display: block;
 }
+
+.port-filter .active {
+    padding-right: 50px;
+}
+.port-filter a {
+    border: 1px solid #bf919f;
+    background: #bf919f none repeat scroll 0 0;
+    color: #fff;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 2px;
+    padding: 2px 10px;
+    text-transform: uppercase;
+    max-width: 100%;
+}
