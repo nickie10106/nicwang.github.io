@@ -1,6 +1,6 @@
 baseURL = "https://www.simplynickie.com"
 languageCode = "en-us"
-title = "Parsa | Personal Blog Template"
+title = "Simply Nickie - Portfolio Site"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
