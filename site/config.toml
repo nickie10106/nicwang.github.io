@@ -56,7 +56,7 @@ paginate = 6
 
   [[menu.main]]
   name = "Portfolio"
-  URL = "portfolio.md"
+  URL = "portfolio"
   weight = 3
 
   [[menu.main]]
