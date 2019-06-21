@@ -94,8 +94,8 @@ copyright = "SimplyNickie 2019"
   # Instagram feed
   [params.instafeed]
   enable = true
-  userID = "4044026246"
-  accessToken = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+  userID = "309134042"
+  accessToken = "309134042.1677ed0.262fc94b8192488e8ba3b336eabc730a"
 
   # footer
   [params.footer]
