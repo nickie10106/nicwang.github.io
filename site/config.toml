@@ -1,4 +1,4 @@
-baseURL = "http://www.simplynickie.com"
+baseURL = "https://www.simplynickie.com"
 languageCode = "en-us"
 title = "Parsa | Personal Blog Template"
 theme = "parsa-hugo"
