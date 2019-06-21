@@ -61,7 +61,7 @@ paginate = 6
 
 
 [params]
-logo = "images/logo.png"
+logo = "/images/logo.png"
 home = "Home"
 # hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
 homeLayoutToggle = true
@@ -69,7 +69,7 @@ homeLayoutToggle = true
 description = "This is meta description"
 # about author
 author = "Themefisher"
-authorImage = "images/banner-img.png"
+authorImage = "/images/banner-img.png"
 shortDescription = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact Form Action
 contactFormAction = "#"
