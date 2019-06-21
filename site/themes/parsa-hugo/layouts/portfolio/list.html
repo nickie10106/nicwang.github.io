@@ -12,38 +12,6 @@
   </div>
 </section>
 
-<!--WORKS START-->
-<section>
-       <div id="works" class="content clearfix">
-         <div class="container">
-
-
-                 <ul class="port-filter animated" data-animated="fadeInUp">
-                           <li><a href="#" data-filter="{{.Params.Categories}}">{{.Params.Categories}}</a></li>
-
-                       </ul>
-
-                     <div class="row">
-                         {{ range (where .Data.Pages "Type" "featured")}}
-                         <div class="portfolio-body clearfix">
-                               <div class="col-sm-4  port-item {{.Params.Categories}}">
-                                   <a class="port-box" href="{{.Permalink}}">
-                                       <div class="port-hover">
-                                         <div class="port-inner">
-                                             <h3>{{.Title}}</h3>
-                                           </div>
-                                           <i class="fa fa-creative-commons"></i>
-                                       </div><!--/.port-hover-->
-                                       <img alt="works" src="{{.Params.Image | absURL}}">
-                                   </a>
-                               </div>
-                           </div><!--/.portfolio-body-->
-                       </div><!--/.row-->
-
-         </div><!--/.container-->
-       </div><!--/.works-->
-       <!--WORKS END-->
-</section>
 {{partial "instafeed.html" . }}
 
 {{ end }}
