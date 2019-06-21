@@ -97,18 +97,18 @@ copyright = "a theme by [themefisher.com](themefisher.com)"
 
     #address
     [[params.footer.addresses]]
-    address = "Sydney"
+    address = "Singapore"
 
     [[params.footer.addresses]]
-    address = "6 rip carl Avenue CA 90733"
+    address = "Singapore"
 
 
     #contact information
     [[params.footer.contacts]]
-    contactInfo = "Tel: +90 000 333 22"
+    contactInfo = "Tel: +65 9799 9606"
 
     [[params.footer.contacts]]
-    contactInfo = "Mail: exmaple@ymail.com"
+    contactInfo = "Mail: nickie10106@gmail.com"
 
 
   # social site
