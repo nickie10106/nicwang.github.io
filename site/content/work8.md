@@ -1,14 +1,13 @@
 ---
-title: "Charming Evening Field"
+title: "Cherry On the Cake"
 date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "post"
-image: "images/masonary-post/post-5.jpg"
-categories: 
-  - "Food"
+image: "images/work/8.jpg"
+categories:
+  - "Graphic Design"
 tags:
-  - "Photos"
-  - "Food"
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
@@ -51,5 +50,3 @@ dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur au
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
 ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
 labore et dolore magnam aliquam quaerat voluptatem.
-
-

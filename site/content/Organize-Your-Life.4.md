@@ -3,7 +3,7 @@ title: "Videos"
 date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "featured"
-image: "images/featured-post/4.png"
+image: "images/featured-post/4.jpg"
 categories:
   - "Article"
 tags:
