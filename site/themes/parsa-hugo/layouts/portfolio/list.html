@@ -26,8 +26,6 @@
              <li><a href="#" data-filter=".others">Others</a></li>
                        </ul>
 
-                       {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-                       {{ range $paginator.Pages }}
                      <div class="row">
                          <div class="portfolio-body clearfix">
 
