@@ -77,7 +77,7 @@ author = "SimplyNickie"
 authorImage = "/images/banner-img.png"
 shortDescription = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact Form Action
-contactFormAction = "true"
+contactFormAction = "https://formspree.io/nickie10106@gmail.com"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # copyright
