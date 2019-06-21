@@ -24,6 +24,7 @@
                        </ul>
 
                      <div class="row">
+                         {{ range (where .Data.Pages "Type" "featured")}}
                          <div class="portfolio-body clearfix">
                                <div class="col-sm-4  port-item {{.Params.Categories}}">
                                    <a class="port-box" href="{{.Permalink}}">
