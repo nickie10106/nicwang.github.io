@@ -5,10 +5,10 @@ description: "This is meta description"
 type: "featured"
 image: "images/featured-post/1.jpg"
 categories:
-  - "Philosophy"
+  - "Writing"
 tags:
-  - "Philosophy"
-  - "Photos"
+  - "Writing"
+  - "Article"
 ---
 
 
