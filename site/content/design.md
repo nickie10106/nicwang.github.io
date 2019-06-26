@@ -5,9 +5,9 @@ description: "This is meta description"
 type: "featured"
 image: "images/featured-post/2.jpg"
 categories:
-  - "Fashion"
+  - "Design"
 tags:
-  - "Fashion"
+  - "Design"
 ---
 
 
